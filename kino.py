@@ -4,7 +4,7 @@ from xml.etree import ElementTree
 
 URL = 'https://www.finnkino.fi/xml/Schedule'
 TODAY = date.today()
-spoken_language_iso = ["FI", "SE", "EN"]
+spoken_language_iso = ["FI", "SV", "EN"]
 # You can also give the "spoken_language_iso" as a parameter when running this script from terminal.
 # Access the params with "sys.argv" (also import sys)
 
